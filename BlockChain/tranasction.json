@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Aug 25 15:02:17 2022
+
+@author: loken
+"""
+
+{
+    "sender":"1",
+    "receiver":"2",
+    "amount":100,
+    "private_key":"afdfdfc6a12310fd"
+    
+}
